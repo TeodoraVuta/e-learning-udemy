@@ -1,0 +1,49 @@
+course_id,course_title,url,is_paid,price,num_subscribers,num_reviews,num_lectures,level,content_duration,published_timestamp,subject
+133536,Stock Market Investing for Beginners,https://www.udemy.com/the-beginners-guide-to-the-stock-market/,False,0,50855,2698,15,Beginner Level,1.5,2013-12-25T19:53:34Z,Business Finance
+48841,Accounting in 60 Minutes - A Brief Introduction,https://www.udemy.com/accounting-in-60-minutes-a-brief-introduction/,False,0,56659,4397,16,Beginner Level,1.5,2013-04-07T21:39:25Z,Business Finance
+49798,Bitcoin or How I Learned to Stop Worrying and Love Crypto,https://www.udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto/,False,0,65576,936,24,All Levels,8.0,2013-04-20T02:25:22Z,Business Finance
+820194,Photoshop for Entrepreneurs - Design 11 Practical Projects,https://www.udemy.com/photoshop-for-entrepreneurs/,True,200,36288,737,63,All Levels,5.0,2016-06-09T01:57:03Z,Graphic Design
+17349,Figure Drawing From Life Using The Reilly Technique.,https://www.udemy.com/figure-drawing-from-life-using-the-reilly-technique/,False,0,47811,1041,22,All Levels,2.5,2012-05-09T18:14:57Z,Graphic Design
+399938,Professional Logo Design in Adobe Illustrator,https://www.udemy.com/professional-logo-design-crash-course/,False,0,44044,1563,45,All Levels,7.5,2015-01-22T11:18:06Z,Graphic Design
+348116,Photoshop In-Depth: Master all of Photoshop's Tools Easily,https://www.udemy.com/photoshop-tools/,False,0,53851,1779,45,All Levels,4.5,2014-11-30T04:22:11Z,Graphic Design
+249126,Logo Design Essentials ,https://www.udemy.com/logo-design/,True,20,33205,481,12,All Levels,0.7,2014-06-30T03:09:27Z,Graphic Design
+19421,Free Beginner Electric Guitar Lessons,https://www.udemy.com/beginner-electric-guitar-lessons/,False,0,101154,1042,95,Beginner Level,4.5,2012-06-15T17:00:33Z,Musical Instruments
+238934,Pianoforall - Incredible New Way To Learn Piano & Keyboard,https://www.udemy.com/pianoforall-incredible-new-way-to-learn-piano-keyboard/,True,200,75499,7676,362,All Levels,30.0,2014-08-07T06:27:51Z,Musical Instruments
+42271,Complete Guitar System - Beginner to Advanced,https://www.udemy.com/complete-guitar-system-beginner-to-advanced/,True,145,32935,2713,310,All Levels,34.0,2013-05-29T15:24:47Z,Musical Instruments
+41884,Getting Started with Playing Guitar,https://www.udemy.com/getting-started-with-playing-guitar/,False,0,47652,1141,26,Beginner Level,4.0,2013-05-29T15:28:07Z,Musical Instruments
+28295,Learn Web Designing & HTML5/CSS3 Essentials in 4-Hours,https://www.udemy.com/build-beautiful-html5-website/,True,75,43285,525,24,All Levels,4.0,2013-01-03T00:55:31Z,Web Development
+19603,Learning Dynamic Website Design - PHP MySQL and JavaScript,https://www.udemy.com/learning-dynamic-website-design/,True,50,47886,285,125,All Levels,12.5,2012-06-18T16:52:34Z,Web Development
+16646,Web Programming with Python,https://www.udemy.com/web-programming-with-python/,True,50,35267,217,53,All Levels,4.0,2012-04-25T00:01:43Z,Web Development
+473160,Web Design for Web Developers: Build Beautiful Websites!,https://www.udemy.com/web-design-secrets/,False,0,98867,6512,20,All Levels,3.0,2015-04-13T18:29:47Z,Web Development
+314462,Quickstart AngularJS,https://www.udemy.com/quickstart-angularjs/,False,0,64128,4047,17,Beginner Level,1.5,2014-11-22T12:42:22Z,Web Development
+94430,Learn Javascript & JQuery From Scratch,https://www.udemy.com/learn-javascript-jquery-from-scratch/,True,30,84897,2685,10,All Levels,2.0,2013-10-10T15:19:29Z,Web Development
+556248,The Complete HTML & CSS Course - From Novice To Professional,https://www.udemy.com/htmlwebsite/,True,195,57422,874,84,All Levels,7.5,2015-07-27T16:57:52Z,Web Development
+11174,Become a Web Developer from Scratch,https://www.udemy.com/how-to-become-a-web-developer-from-scratch/,True,120,69186,2408,197,All Levels,27.5,2011-11-19T21:51:20Z,Web Development
+294794,Create An HTML5 Video Player From Scratch,https://www.udemy.com/html5-video-player/,False,0,32260,1005,12,Beginner Level,1.5,2014-09-05T19:16:53Z,Web Development
+65330,Web Development By Doing: HTML / CSS From Scratch,https://www.udemy.com/web-development-learn-by-doing-html5-css3-from-scratch-introductory/,False,0,72932,2575,21,Beginner Level,1.0,2013-09-25T00:42:09Z,Web Development
+173548,Build Your First Website in 1 Week with HTML5 and CSS3,https://www.udemy.com/build-your-first-website-in-1-week/,False,0,120291,5924,30,Beginner Level,3.0,2014-04-08T16:21:30Z,Web Development
+674608,The Complete Web Developer Masterclass: Beginner To Advanced,https://www.udemy.com/webdevelopercourse/,True,195,37141,1813,316,All Levels,51.0,2016-05-18T00:16:26Z,Web Development
+41295,Learn HTML5 Programming From Scratch,https://www.udemy.com/learn-html5-programming-from-scratch/,False,0,268923,8629,45,All Levels,10.5,2013-02-14T07:03:41Z,Web Development
+59014,Coding for Entrepreneurs Basic,https://www.udemy.com/coding-for-entrepreneurs-basic/,False,0,161029,279,27,Beginner Level,3.5,2013-06-09T15:51:55Z,Web Development
+580466,Complete PHP Course With Bootstrap3 CMS System & Admin Panel,https://www.udemy.com/complete-php-course/,True,195,55332,1225,144,All Levels,20.0,2015-09-22T18:14:08Z,Web Development
+949282,Learn Angular 2 from Beginner to Advanced,https://www.udemy.com/learn-angular-2-from-beginner-to-advanced/,True,195,32696,526,67,Beginner Level,10.0,2016-10-07T00:25:59Z,Web Development
+756150,Angular 4 (formerly Angular 2) - The Complete Guide,https://www.udemy.com/the-complete-guide-to-angular-2/,True,190,73783,19649,329,All Levels,22.0,2016-02-11T07:29:29Z,Web Development
+80940,Build Websites from Scratch with HTML & CSS,https://www.udemy.com/build-website-scratch/,True,145,51257,1955,77,Beginner Level,8.0,2013-09-25T15:59:09Z,Web Development
+519442,The Complete Ruby on Rails Developer Course,https://www.udemy.com/the-complete-ruby-on-rails-developer-course/,True,195,33677,3809,283,All Levels,31.5,2015-10-23T20:29:25Z,Web Development
+128946,Learn Responsive Web Development from Scratch,https://www.udemy.com/learn-responsive-web-development-from-scratch/,False,0,59639,2692,24,All Levels,4.5,2013-12-09T12:16:40Z,Web Development
+719002,Angular 2 with TypeScript for Beginners: The Pragmatic Guide,https://www.udemy.com/angular-2-tutorial-for-beginners/,True,150,40070,8341,194,All Levels,9.5,2016-03-03T20:17:59Z,Web Development
+625204,The Web Developer Bootcamp,https://www.udemy.com/the-web-developer-bootcamp/,True,200,121584,27445,342,All Levels,43.0,2015-11-02T21:13:27Z,Web Development
+764164,The Complete Web Developer Course 2.0,https://www.udemy.com/the-complete-web-developer-course-2/,True,200,114512,22412,304,All Levels,30.5,2016-03-08T22:28:36Z,Web Development
+446134,Ultimate Web Designer & Developer Course: Build 23 Projects!,https://www.udemy.com/web-developer-course/,True,200,33788,4434,246,All Levels,32.5,2015-08-20T20:55:19Z,Web Development
+772618,Learn Object Oriented PHP By Building a Complete Website,https://www.udemy.com/learn-object-oriented-php-by-building-a-complete-website/,False,0,36322,2618,32,All Levels,4.5,2016-03-01T17:38:10Z,Web Development
+289230,Learn and Understand AngularJS,https://www.udemy.com/learn-angularjs/,True,175,59361,11580,55,All Levels,7.0,2014-09-24T00:57:25Z,Web Development
+364426,JavaScript: Understanding the Weird Parts,https://www.udemy.com/understand-javascript/,True,175,79612,16976,85,All Levels,11.5,2015-03-12T23:19:54Z,Web Development
+437398,Build Responsive Real World Websites with HTML5 and CSS3,https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/,True,195,43977,7106,77,All Levels,12.0,2015-03-24T22:06:26Z,Web Development
+461160,Learn and Understand NodeJS,https://www.udemy.com/understand-nodejs/,True,195,58208,11123,98,All Levels,13.0,2015-08-31T21:07:48Z,Web Development
+705264,Modern React with Redux,https://www.udemy.com/react-redux/,True,180,50815,15117,150,All Levels,26.5,2015-12-28T19:20:21Z,Web Development
+130064,Practical PHP: Master the Basics and Code Dynamic Websites,https://www.udemy.com/code-dynamic-websites/,False,0,83737,4598,45,All Levels,6.5,2014-07-19T03:02:05Z,Web Development
+94432,Learn PHP Fundamentals From Scratch,https://www.udemy.com/learn-php-fundamentals-from-scratch/,False,0,48650,1236,9,Beginner Level,2.0,2013-10-16T08:12:40Z,Web Development
+405926,HTML and CSS for Beginners - Build a Website & Launch ONLINE,https://www.udemy.com/html-and-css-for-beginners-crash-course-learn-fast-easy/,False,0,70773,5660,50,All Levels,6.0,2015-03-19T19:07:12Z,Web Development
+708578,Bootstrap 4 Quick Start: Code Modern Responsive Websites,https://www.udemy.com/bootstrap-4/,False,0,41478,2104,13,All Levels,3.0,2015-12-30T21:28:31Z,Web Development
+707962,Javascript Essentials,https://www.udemy.com/javascript-essentials/,False,0,47062,5590,41,Beginner Level,8.5,2016-01-20T19:08:27Z,Web Development
+21386,Beginner Photoshop to HTML5 and CSS3,https://www.udemy.com/psd-html5-css3/,False,0,73110,1716,22,All Levels,2.0,2012-07-27T12:54:57Z,Web Development
